@@ -15,9 +15,11 @@ int main(){
 		
 		cin >> q;
 
-		while(q >= 1){
+		while(q > 1.00){
 			q/=2;
+			
 			ans++;
+			
 		}	
 		cout << ans<< " dias" << endl;
 

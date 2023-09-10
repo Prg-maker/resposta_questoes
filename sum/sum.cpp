@@ -19,6 +19,8 @@ int f1(){
 
 }
 // time = 0.000121 seconds
+// explicação da f2: 
+
 int f2(){
   int n = 5, sum = 0;
 
